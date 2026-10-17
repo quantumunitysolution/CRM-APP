@@ -6,7 +6,7 @@ class ApiConfig {
 
   /// Default Server Domain/Host.
   /// Production Backend hosted on Railway:
-  static String _serverHost = 'http://192.168.1.5:5000';
+  static String _serverHost = 'crm-back-uuq6.onrender.com';
   static int _serverPort = 5000;
 
   /// Header security key required by backend
